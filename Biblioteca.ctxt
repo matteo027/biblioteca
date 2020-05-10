@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Biblioteca
+comment1.params=
+comment1.target=Biblioteca()
+comment2.params=
+comment2.target=void\ caricaElenco()
+comment3.params=
+comment3.target=int\ getSize()
+comment4.params=l
+comment4.target=void\ add(Libro)
+comment5.params=genere\ t
+comment5.target=void\ stampa(java.lang.String,\ javax.swing.JTextArea)
+comment6.params=t
+comment6.target=void\ stampaPerTitolo(javax.swing.JTextArea)
+comment7.params=
+comment7.target=void\ salva()
+comment8.params=
+comment8.target=void\ carica()
+comment9.params=
+comment9.target=void\ trasforma()
+numComments=10

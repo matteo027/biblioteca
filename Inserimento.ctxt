@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Inserimento
+comment1.params=b
+comment1.target=Inserimento(Biblioteca)
+comment2.params=
+comment2.target=void\ letturaGeneri()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=4

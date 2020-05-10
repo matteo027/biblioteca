@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Libro
+comment1.params=k\ titolo\ npagine\ genere
+comment1.target=Libro(int,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getTitolo()
+comment3.params=
+comment3.target=int\ getCod()
+comment4.params=
+comment4.target=java.lang.String\ getGenere()
+comment5.params=autore
+comment5.target=void\ addAutore(java.lang.String)
+comment6.params=l
+comment6.target=int\ compareTo(java.lang.Object)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+numComments=8
